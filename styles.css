@@ -122,4 +122,10 @@ button{
     .main-box{
         width: 80%;
     }
+    .heading{
+        margin: 6% 8%;
+    }
+    .para{
+        margin: 8%;
+    }
 }
