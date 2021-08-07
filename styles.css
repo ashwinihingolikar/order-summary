@@ -120,9 +120,6 @@ button{
 }
 
 @media screen and (max-width:450px) {
-    .main-container{
-      margin: 7% 5%
-    }
     .main-box{
         width: 80%;
     }
